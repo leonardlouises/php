@@ -1,0 +1,30 @@
+.oculto:hover{
+    #bt{
+        visibility: initial;
+    }
+}
+
+#bt{
+    visibility: hidden;
+}
+
+img{
+    filter:invert(100%);
+}
+
+div{
+    background-color: #fff;
+    position: fixed;
+    width: 1366px;
+    height: 255px;
+    top: 0px;
+    text-align: center;
+}
+
+hr{
+    margin-bottom: 0px;
+}
+
+#datos{
+    margin-top: 255px;
+}
